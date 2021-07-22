@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head><title>소수</title></head>
+    <body>
+        <h3>소수</h3>
+        <hr>
+        <script>
+            var cnt=0;
+            for(var a=2;a<1000;a++){
+                for(var b=2;b<=a;b++){
+                    if(a==b) {
+                        document.write(a+" "),cnt++;if(cnt>0&&cnt%10==0)document.write("<br>"); break;}
+                    if(a%b==0) break;
+                    
+                }
+            }
+            document.write("<br>"+cnt);
+        </script>
+    </body>
+</html>
