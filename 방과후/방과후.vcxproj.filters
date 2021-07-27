@@ -21,10 +21,16 @@
     <ClCompile Include="기본 연산자.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="문자 char.c">
+    <ClCompile Include="문자열 char 포인터.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="문자열 char 포인터.c">
+    <ClCompile Include="모의고사.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="조건문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복문.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
