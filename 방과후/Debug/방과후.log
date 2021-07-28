@@ -1,2 +1,4 @@
-﻿  모의고사.c
+﻿  함수.c
+C:\Users\user\Major-Camp\방과후\함수.c(125,15): warning C4013: 'word'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Major-Camp\방과후\함수.c(122,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   방과후.vcxproj -> C:\Users\user\Major-Camp\방과후\Debug\방과후.exe

@@ -33,5 +33,11 @@
     <ClCompile Include="반복문.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
