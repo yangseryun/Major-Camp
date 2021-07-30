@@ -1,3 +1,6 @@
 ﻿  자료구조.c
-C:\Users\user\Major-Camp\방과후\자료구조.c(29,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Major-Camp\방과후\자료구조.c(141,12): warning C4013: 'IsFull'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Major-Camp\방과후\자료구조.c(157,13): warning C4013: 'IsEmpty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Major-Camp\방과후\자료구조.c(162): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\user\Major-Camp\방과후\자료구조.c(146): warning C4716: 'push': 값을 반환해야 합니다.
   방과후.vcxproj -> C:\Users\user\Major-Camp\방과후\Debug\방과후.exe
